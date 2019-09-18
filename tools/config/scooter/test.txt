@@ -1,0 +1,3 @@
+/home/romano/Documents/ScooterHelmen/test/Screenshot from 2019-09-10 13-15-41_fliplr.jpg
+/home/romano/Documents/ScooterHelmen/test/Screenshot from 2019-09-10 13-15-41_flipud.jpg
+/home/romano/Documents/ScooterHelmen/test/Screenshot from 2019-09-10 13-15-41_noise.jpg

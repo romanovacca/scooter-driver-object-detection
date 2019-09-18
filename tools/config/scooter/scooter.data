@@ -1,0 +1,5 @@
+classes= 1
+train= /your/custom/path/train.txt
+valid= /your/custom/path/test.txt
+names= scooter.names
+backup= backup/
